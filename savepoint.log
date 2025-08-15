@@ -1,0 +1,31 @@
+0a292b9 Initial FP-style Task API with tests passing
+.
+├── backend
+│   ├── jest.config.js
+│   ├── node_modules
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── src
+│   ├── tests
+│   └── tsconfig.json
+├── docker-compose.yml
+├── frontend
+│   ├── package.json
+│   ├── src
+│   ├── tailwind.config.js
+│   └── tsconfig.json
+├── package.json
+├── README.md
+└── savepoint.log
+
+7 directories, 11 files
+
+Savepoint: AI Dashboard Monorepo
+- Backend: FP-style Task API, in-memory immutable state, Jest tests passing
+- Frontend: React/TS dashboard (empty scaffold)
+- Folder structure:
+ai-dashboard/
+├─ backend/
+├─ frontend/
+├─ .gitignore
+└─ README.md
